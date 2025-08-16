@@ -1,0 +1,1 @@
+/Users/zengtian/Desktop/rust/rust-2025/rust-202508/minigrep/target/debug/minigrep: /Users/zengtian/Desktop/rust/rust-2025/rust-202508/minigrep/src/lib.rs /Users/zengtian/Desktop/rust/rust-2025/rust-202508/minigrep/src/main.rs
