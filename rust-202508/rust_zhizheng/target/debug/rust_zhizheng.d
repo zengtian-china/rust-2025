@@ -1,0 +1,1 @@
+/Users/zengtian/Desktop/rust/rust-2025/rust-202508/rust_zhizheng/target/debug/rust_zhizheng: /Users/zengtian/Desktop/rust/rust-2025/rust-202508/rust_zhizheng/src/main.rs /Users/zengtian/Desktop/rust/rust-2025/rust-202508/rust_zhizheng/src/wca0041.rs
