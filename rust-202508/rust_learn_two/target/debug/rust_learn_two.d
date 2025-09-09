@@ -1,0 +1,1 @@
+/Users/zengtian/Desktop/rust/rust-2025/rust-202508/rust_learn_two/target/debug/rust_learn_two: /Users/zengtian/Desktop/rust/rust-2025/rust-202508/rust_learn_two/src/logger.rs /Users/zengtian/Desktop/rust/rust-2025/rust-202508/rust_learn_two/src/main.rs
